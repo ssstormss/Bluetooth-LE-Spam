@@ -8,11 +8,11 @@ plugins {
 val app_name = "Bluetooth LE Spam"
 
 android {
-    namespace = "de.simon.dankelmann.bluetoothlespam"
+    namespace = "sombluethoothspammer"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "de.simon.dankelmann.bluetoothlespam"
+        applicationId = "sombluethootspammer"
         minSdk = 26
         targetSdk = 35
         versionCode = 3
